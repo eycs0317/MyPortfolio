@@ -6,7 +6,7 @@ Create a Person Portfolio
 
 ## Getting Started
 
-git clone https://github.com/eycs0317/Portfolio
+git clone https://github.com/eycs0317/MyPortfolio
 
 ## Build With
   * HTML
