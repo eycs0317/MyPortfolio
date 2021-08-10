@@ -14,9 +14,9 @@ git clone https://github.com/eycs0317/Portfolio
 
 ## Deployed Link
 
-[Github](https://github.com/eycs0317/Portfolio)
+[Github](https://github.com/eycs0317/MyPortfolio)
 
-[Live URL](https://eycs0317.github.io/Portfolio/)
+[Live URL](https://eycs0317.github.io/MyPortfolio/)
 
 ## Sample Image
 
